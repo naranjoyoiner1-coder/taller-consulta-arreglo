@@ -62,7 +62,7 @@ Debe tener al menos **5 propiedades** con diferentes tipos de datos:
 - Otro **objeto anidado** (`procesador` con sus propias propiedades).  
 
 #### Investigación #2: Objeto por Constructor
-1. **Define**: ¿Qué es un objeto por constructor? Explica la diferencia con la aproximación literal.  
+1. **Define**: ¿Qué es un objeto por constructor (por función y por clase)? Explica la diferencia con la aproximación literal.  
 2. **Sintaxis y Ejemplo (Constructor Object)**:  
 Muestra cómo se crea un objeto utilizando el constructor `new Object()` y asígnale las mismas propiedades del objeto `computador`.  
 3. **Sintaxis y Ejemplo (Constructor Personalizado)**:  
@@ -84,13 +84,13 @@ Incluye comentarios explicativos y ejemplos de código.
 
 #### Investigación #4: Métodos Mutables
 1. **Define**: ¿Qué es un método mutable? Explica qué significa que un método "mute" o modifique el arreglo original.  
-2. **Investiga y Aplica**: Escoge **5 métodos mutables** de arreglos. Para cada uno:  
+2. **Investiga y Aplica**: Escoge **8 métodos mutables** de arreglos. Para cada uno:  
 - Escribe su **nombre** y una breve **descripción**.  
 - Crea un ejemplo práctico mostrando el arreglo **antes** y **después** del método.  
 
 #### Investigación #5: Métodos Inmutables
 1. **Define**: ¿Qué es un método inmutable? Explica por qué son importantes y a menudo preferidos en paradigmas como la **programación funcional**.  
-2. **Investiga y Aplica**: Escoge **5 métodos inmutables** de arreglos. Para cada uno:  
+2. **Investiga y Aplica**: Escoge **10 métodos inmutables** de arreglos. Para cada uno:  
 - Escribe su **nombre** y una breve **descripción**.  
 - Crea un ejemplo que demuestre que el arreglo original **no cambia**, mostrando el **original** y el **nuevo arreglo** generado.  
 
