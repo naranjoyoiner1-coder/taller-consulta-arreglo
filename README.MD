@@ -44,7 +44,7 @@ En la descripción del PR incluye:
 
 ## 📝 Actividades a Desarrollar
 
-### Parte 1: El Mundo de los Objetos 
+### Parte 1: Objetos 
 
 En el archivo `solucion/objetos.js`, responde a las siguientes consignas.  
 Usa **comentarios** en el código para tus explicaciones y ejemplos funcionales.
@@ -71,7 +71,7 @@ Luego, crea al menos **dos instancias** de `Producto` con diferentes valores.
 
 ---
 
-### Parte 2: El Universo de los Arreglos  
+### Parte 2: Arreglos  
 
 En el archivo `solucion/arreglos.js`, responde a las siguientes consignas.  
 Incluye comentarios explicativos y ejemplos de código.
