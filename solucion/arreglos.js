@@ -72,7 +72,7 @@ console.log("--- MÉTODOS MUTABLES ---");
  * Un método inmutable es aquel que... Son importantes porque...
  */
 
-// 2. Investiga y aplica 5 métodos de arreglos que sean inmutables.
+// 2. Investiga y aplica 10 métodos de arreglos que sean inmutables.
 console.log("\n--- MÉTODOS INMUTABLES ---");
 
 // Método 1: [Nombre del método]
